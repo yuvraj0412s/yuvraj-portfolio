@@ -26,6 +26,7 @@ const skills = [
   { name: "AI-Augmented Programming", level: 70, category: "other" },
 ];
 
+
 const categories = ["all", "languages", "web", "tools", "other"];
 
 export const SkillsSection = () => {

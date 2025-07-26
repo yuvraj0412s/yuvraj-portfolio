@@ -76,6 +76,7 @@ export const StarBackground = () => {
         />
       ))}
 
+
       {meteors.map((meteor) => (
         <div
           key={meteor.id}

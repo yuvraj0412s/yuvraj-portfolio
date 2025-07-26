@@ -3,7 +3,7 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
-    title: "Joint Task Partitioning and User Association for Latency Minimization in Mobile Edge Computing Networks",
+    title: "Joint Task Partitioning for Latency Minimization in Mobile Edge Computing Networks",
     description:
       "Developing an optimization framework for task partitioning and user association in Multi-Access Edge Computing (MEC) networks to minimize latency and enhance resource utilization.",
     image: "/projects/project1.png", // Update this if you have relevant images
@@ -13,13 +13,13 @@ const projects = [
   },
   {
     id: 2,
-    title: "Plant Disease Detection Using Image Processing and Machine Learning",
+    title: "Plant Disease Detection System",
     description:
-      "Leveraged preprocessing algorithms like Gaussian filtering and Otsu thresholding for disease identification. Trained a Random Forest classifier on the PlantVillage dataset, achieving 93% accuracy in detecting 20 diseases across 5 plant species.",
+      "Developed a web-based AI tool using TensorFlow, EfficientNetB4, and Flask to detect plant diseases from leaf images via transfer learning, achieving 96% accuracy across 38 disease classes and supporting early intervention in precision agriculture.",
     image: "/projects/project2.png",
     tags: ["Image Processing", "Machine Learning", "Python"],
-    demoUrl: "#",
-    githubUrl: "#",
+    demoUrl: "https://github.com/yuvraj0412s/Plant--Disease-Detection-System.git",
+    githubUrl: "https://github.com/yuvraj0412s/Plant--Disease-Detection-System.git",
   },
   {
     id: 3,

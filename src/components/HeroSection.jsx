@@ -24,6 +24,7 @@ export const HeroSection = () => {
            I am highly motivated to expand my expertise and stay at the forefront of technology by actively learning cutting-edge software development and AI-driven machine learning techniques, while seeking opportunities to contribute and grow in a dynamic work environment.
           </p>
 
+
           <div className="pt-4 opacity-0 animate-fade-in-delay-4">
             <a href="#projects" className="cosmic-button">
               View My Work

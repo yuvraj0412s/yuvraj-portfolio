@@ -11,18 +11,18 @@ export const AboutSection = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <h3 className="text-2xl font-semibold">
-              Dynamic Fresher Software Developer
+              Aspiring Software Developer | AI Enthusiast
             </h3>
 
             <p className="text-muted-foreground">
-              I am a passionate software developer with a solid foundation in programming, problem-solving, and AI-augmented tools.
-              Currently pursuing a B.Tech in Computer Science (Hons.) with a focus on IoT and Machine Learning at Manipal University Jaipur.
+              Passionate and detail-oriented Software Developer with a strong foundation in Python, C++, and modern web technologies. Eager to contribute innovative solutions using AI and data-driven insights.
             </p>
 
+
             <p className="text-muted-foreground">
-              Experienced in developing innovative projects including Mobile Edge Computing optimization, plant disease detection using machine learning, and IoT-based smart systems.
-              Eager to contribute to forward-thinking teams building efficient and scalable solutions.
+              Experienced in building interactive dashboards, front-end features, and AI tools. Open to exciting opportunities in tech-driven environments where I can grow while solving real-world problems.
             </p>
+
 
             <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
               <a href="#contact" className="cosmic-button">
@@ -30,7 +30,7 @@ export const AboutSection = () => {
               </a>
 
               <a
-                href="/YuvrajSingh_CV.pdf"
+                href="/Resume_Yuvraj_Singh_SDE-9.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
@@ -49,8 +49,9 @@ export const AboutSection = () => {
                 <div className="text-left">
                   <h4 className="font-semibold text-lg">Programming & Web Technologies</h4>
                   <p className="text-muted-foreground">
-                    Skilled in Python, C++, SQL, HTML, CSS, JavaScript, and React. Experienced with tools like Git, VS Code, and Jupyter Notebook.
+                    Proficient in Python, C++, HTML, CSS, JavaScript, and SQL. Skilled at creating responsive front-end features and integrating dynamic data insights using tools like Power BI and Tableau.
                   </p>
+
                 </div>
               </div>
             </div>
@@ -62,7 +63,7 @@ export const AboutSection = () => {
                 <div className="text-left">
                   <h4 className="font-semibold text-lg">AI & Machine Learning</h4>
                   <p className="text-muted-foreground">
-                    Leveraging AI and ML techniques in projects such as plant disease detection using Random Forest and data preprocessing algorithms.
+                    Developed AI tools using TensorFlow and EfficientNet for image classification. Applied transfer learning to real-world problems with up to 96% accuracy in agriculture applications.
                   </p>
                 </div>
               </div>
@@ -76,7 +77,7 @@ export const AboutSection = () => {
                 <div className="text-left">
                   <h4 className="font-semibold text-lg">Project Experience</h4>
                   <p className="text-muted-foreground">
-                    Ongoing work on latency optimization in Mobile Edge Computing, and completed projects like Smart Street Light Systems with IoT integration.
+                    Built and deployed solutions in domains like edge computing, plant disease detection, and data analysis. Demonstrated ability to deliver results through impactful internships and GitHub projects.
                   </p>
                 </div>
               </div>

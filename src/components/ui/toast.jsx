@@ -17,6 +17,7 @@ const ToastViewport = React.forwardRef(({ className, ...props }, ref) => (
     {...props}
   />
 ));
+
 ToastViewport.displayName = ToastPrimitives.Viewport.displayName;
 
 const toastVariants = cva(
