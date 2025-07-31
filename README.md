@@ -2,7 +2,7 @@
 
 <div align="center">
   <br />
-    <img src="./banner.png" alt="Portfolio Website Banner">
+    <img src="banner-web.png" alt="Portfolio Website Banner">
   </a>
   <br />
   <div>
@@ -90,7 +90,7 @@ Your app will be available at: [http://localhost:5173](http://localhost:5173)
 
 ## 🖼️ Screenshots
 
-![Web App Screenshot](banner.png)
+![Web App Screenshot](banner-web.png)
 
 ---
 
