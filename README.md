@@ -14,10 +14,6 @@
     <img src="https://img.shields.io/badge/-Radix UI-9D4EDD?style=for-the-badge&logo=data:image/svg+xml;base64..." alt="Radix UI" />
   </div>
   <h3 align="center">Create a Stunning Developer Portfolio with Animations, Dark Mode, and Projects Showcase</h3>
-  <div align="center">
-    Follow the full video tutorial on 
-    <a href="https://youtu.be/YOUR_VIDEO_ID" target="_blank"><b>YouTube</b></a>
-  </div>
   <br />
 </div>
 
@@ -30,13 +26,6 @@
 5. [Screenshots](#-screenshots)
 6. [Deployment](#-deployment)
 
----
-
-## 🚀 Introduction
-
-In this tutorial, you'll learn how to build a modern portfolio website using **React**, **TailwindCSS**, **Vite**, and **Lucide Icons**. From dark mode support to responsive animations and deployable project showcases, this video walks you through every step—perfect for developers looking to level up their frontend skills or apply for jobs.
-
-🎥 Watch the full tutorial: [YouTube](https://youtu.be/YOUR_VIDEO_ID)
 
 ---
 
@@ -130,4 +119,16 @@ Your live website will be hosted on a custom subdomain (e.g. `https://your-name.
 
 ---
 
-Let me know if you'd like me to generate a version with your actual GitHub repo, YouTube URL, or a banner image suggestion!
+### 🤝 Let's Connect & Collaborate!
+
+If you found this project helpful or interesting, feel free to connect or collaborate!
+
+<p align="center">
+  <a href="https://github.com/yuvraj0412s" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-yuvraj0412s-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://yuvrajsingh-portfolio.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit Now-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
