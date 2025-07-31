@@ -2,7 +2,6 @@
 
 <div align="center">
   <br />
-  <a href="https://youtu.be/YOUR_VIDEO_ID" target="_blank">
     <img src="./banner.png" alt="Portfolio Website Banner">
   </a>
   <br />
@@ -91,7 +90,7 @@ Your app will be available at: [http://localhost:5173](http://localhost:5173)
 
 ## 🖼️ Screenshots
 
-> 📸 Add screenshots of your Hero section, Projects grid, and Contact form here to show off your site.
+![Web App Screenshot](banner.png)
 
 ---
 
