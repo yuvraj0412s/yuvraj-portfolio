@@ -88,12 +88,6 @@ Your app will be available at: [http://localhost:5173](http://localhost:5173)
 
 ---
 
-## 🖼️ Screenshots
-
-![Web App Screenshot](banner-web.png)
-
----
-
 ## ☁️ Deployment
 
 ### Deploy on Vercel
